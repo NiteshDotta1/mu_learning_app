@@ -1,4 +1,4 @@
-# lms
+# MU Learning App
 
 A new Flutter application.
 
